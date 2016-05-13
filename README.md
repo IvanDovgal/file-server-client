@@ -11,8 +11,10 @@
 
 **Сборка**
 
-```$ cmake CMakeLists.txt
-$ make```
+```bash
+$ cmake CMakeLists.txt
+$ make
+```
 
 
 **Запуск**
