@@ -11,14 +11,14 @@
 
 **Сборка**
 
-`$ cmake CMakeLists.txt`
-`$ make`
+`$ cmake CMakeLists.txt
+`$ make
 
 
 **Запуск**
 
 Для сервера
-`$ ./FileTransmitServer <порт> <количество потоков> <размер очереди>`
+`$ ./FileTransmitServer <порт> <количество потоков> <размер очереди>
 
 Для клиент`
-`$ ./FileTransmitClient <ip> <порт> <имя файла>`
+`$ ./FileTransmitClient <ip> <порт> <имя файла>
